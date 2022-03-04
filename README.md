@@ -13,4 +13,7 @@ $ python -m pip install --upgrade pymupdf
 Then run this script:
 ```bash
 $ python pdfparser.py xxxx.pdf
+
+{'TPS': '67,53', 'TVQ': '134,71'}
+
 ```
